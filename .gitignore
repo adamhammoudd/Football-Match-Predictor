@@ -11,7 +11,7 @@ __pycache__/
 !data/processed/.gitkeep  # Keep empty directory structure
 
 # Configuration files with secrets
-/config/api_key.json
+/config/api_keys.json
 .env
 *.env
 
