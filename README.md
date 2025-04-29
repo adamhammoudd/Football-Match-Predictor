@@ -140,8 +140,8 @@ football-match-predictor/
 │   ├── data_collection/
 │   │   └── fetch_matches.py   # Data fetching module
 │   ├── models/
-│   │   └── predictor.py       # Prediction engine
-│   └── main.py                # Main application
+│       └── predictor.py       # Prediction engine
+├── main.py                    # Main application
 ├── requirements.txt
 ├── .gitignore
 └── README.md
