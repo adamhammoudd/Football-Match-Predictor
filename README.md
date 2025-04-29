@@ -1,4 +1,3 @@
-```markdown
 # Football Match Predictor
 
 ## Table of Contents
