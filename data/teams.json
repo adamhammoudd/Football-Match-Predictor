@@ -12,7 +12,7 @@
   "dortmund": {
     "api_name": "Borussia Dortmund",
     "id": 4,
-    "aliases": ["bvb", "bvb dortmund"]
+    "aliases": ["bvb", "dortmund"]
   },
   "bayern": {
     "api_name": "FC Bayern München",
@@ -245,7 +245,7 @@
     "aliases": ["genoa"]
   },
   "inter": {
-    "api_name": "Inter Milan",
+    "api_name": "FC Internazionale Milano",
     "id": 108,
     "aliases": ["inter", "inter milan"]
   },
