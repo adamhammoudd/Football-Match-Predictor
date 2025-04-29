@@ -1,0 +1,33 @@
+# Standard Python ignores
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.swp
+*.bak
+
+# Project-specific ignores
+/data/raw/             # Raw API responses (can be regenerated)
+/data/processed/*.csv  # Processed data (generated files)
+!data/processed/.gitkeep  # Keep empty directory structure
+
+# Configuration files with secrets
+/config/api_keys.json
+.env
+*.env
+
+# IDE and editor files
+.idea/
+.vscode/
+*.code-workspace
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+venv/
+.env/

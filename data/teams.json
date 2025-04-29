@@ -1,0 +1,662 @@
+{
+  "hoffenheim": {
+    "api_name": "TSG 1899 Hoffenheim",
+    "id": 2,
+    "aliases": ["tsg hoffenheim", "1899 hoffenheim"]
+  },
+  "leverkusen": {
+    "api_name": "Bayer 04 Leverkusen",
+    "id": 3,
+    "aliases": ["bayer leverkusen"]
+  },
+  "dortmund": {
+    "api_name": "Borussia Dortmund",
+    "id": 4,
+    "aliases": ["bvb", "bvb dortmund"]
+  },
+  "bayern": {
+    "api_name": "FC Bayern München",
+    "id": 5,
+    "aliases": ["bayern munich", "fc bayern"]
+  },
+  "stuttgart": {
+    "api_name": "VfB Stuttgart",
+    "id": 10,
+    "aliases": ["vfb stuttgart"]
+  },
+  "wolfsburg": {
+    "api_name": "VfL Wolfsburg",
+    "id": 11,
+    "aliases": ["wolfsburg"]
+  },
+  "werder bremen": {
+    "api_name": "SV Werder Bremen",
+    "id": 12,
+    "aliases": ["bremen", "werder"]
+  },
+  "mainz": {
+    "api_name": "1. FSV Mainz 05",
+    "id": 15,
+    "aliases": ["mainz 05", "fsv mainz"]
+  },
+  "augsburg": {
+    "api_name": "FC Augsburg",
+    "id": 16,
+    "aliases": ["fca"]
+  },
+  "freiburg": {
+    "api_name": "SC Freiburg",
+    "id": 17,
+    "aliases": ["sc freiburg"]
+  },
+  "monchengladbach": {
+    "api_name": "Borussia Mönchengladbach",
+    "id": 18,
+    "aliases": ["gladbach", "bmg"]
+  },
+  "frankfurt": {
+    "api_name": "Eintracht Frankfurt",
+    "id": 19,
+    "aliases": ["eintracht", "sge"]
+  },
+  "st. pauli": {
+    "api_name": "FC St. Pauli",
+    "id": 20,
+    "aliases": ["st pauli"]
+  },
+  "arsenal": {
+    "api_name": "Arsenal FC",
+    "id": 57,
+    "aliases": ["arsenal"]
+  },
+  "chelsea": {
+    "api_name": "Chelsea FC",
+    "id": 61,
+    "aliases": ["chelsea"]
+  },
+  "everton": {
+    "api_name": "Everton FC",
+    "id": 62,
+    "aliases": ["everton"]
+  },
+  "fulham": {
+    "api_name": "Fulham FC",
+    "id": 63,
+    "aliases": ["fulham"]
+  },
+  "liverpool": {
+    "api_name": "Liverpool FC",
+    "id": 64,
+    "aliases": ["liverpool"]
+  },
+  "man city": {
+    "api_name": "Manchester City FC",
+    "id": 65,
+    "aliases": ["mancity", "city"]
+  },
+  "man united": {
+    "api_name": "Manchester United FC",
+    "id": 66,
+    "aliases": ["manutd", "man united", "man u"]
+  },
+  "newcastle": {
+    "api_name": "Newcastle United FC",
+    "id": 67,
+    "aliases": ["newcastle"]
+  },
+  "norwich": {
+    "api_name": "Norwich City FC",
+    "id": 68,
+    "aliases": ["norwich"]
+  },
+  "qpr": {
+    "api_name": "Queens Park Rangers FC",
+    "id": 69,
+    "aliases": ["queens park rangers"]
+  },
+  "stoke": {
+    "api_name": "Stoke City FC",
+    "id": 70,
+    "aliases": ["stoke"]
+  },
+  "sunderland": {
+    "api_name": "Sunderland AFC",
+    "id": 71,
+    "aliases": ["sunderland"]
+  },
+  "swansea": {
+    "api_name": "Swansea City AFC",
+    "id": 72,
+    "aliases": ["swansea"]
+  },
+  "tottenham": {
+    "api_name": "Tottenham Hotspur FC",
+    "id": 73,
+    "aliases": ["spurs", "tottenham"]
+  },
+  "west brom": {
+    "api_name": "West Bromwich Albion FC",
+    "id": 74,
+    "aliases": ["wba", "west brom"]
+  },
+  "wolves": {
+    "api_name": "Wolverhampton Wanderers FC",
+    "id": 76,
+    "aliases": ["wolves", "wolverhampton"]
+  },
+  "athletic bilbao": {
+    "api_name": "Athletic Club",
+    "id": 77,
+    "aliases": ["bilbao", "athletic bilbao"]
+  },
+  "atletico madrid": {
+    "api_name": "Atlético de Madrid",
+    "id": 78,
+    "aliases": ["atletico", "atm"]
+  },
+  "osasuna": {
+    "api_name": "CA Osasuna",
+    "id": 79,
+    "aliases": ["osasuna"]
+  },
+  "espanyol": {
+    "api_name": "RCD Espanyol de Barcelona",
+    "id": 80,
+    "aliases": ["espanyol"]
+  },
+  "barcelona": {
+    "api_name": "FC Barcelona",
+    "id": 81,
+    "aliases": ["barca", "fc barcelona"]
+  },
+  "getafe": {
+    "api_name": "Getafe CF",
+    "id": 82,
+    "aliases": ["getafe"]
+  },
+  "real madrid": {
+    "api_name": "Real Madrid CF",
+    "id": 86,
+    "aliases": ["real madrid", "rmcf"]
+  },
+  "rayo vallecano": {
+    "api_name": "Rayo Vallecano",
+    "id": 87,
+    "aliases": ["rayo"]
+  },
+  "mallorca": {
+    "api_name": "RCD Mallorca",
+    "id": 89,
+    "aliases": ["mallorca"]
+  },
+  "real betis": {
+    "api_name": "Real Betis Balompié",
+    "id": 90,
+    "aliases": ["betis", "real betis"]
+  },
+  "real sociedad": {
+    "api_name": "Real Sociedad de Fútbol",
+    "id": 92,
+    "aliases": ["real sociedad", "la real"]
+  },
+  "villarreal": {
+    "api_name": "Villarreal CF",
+    "id": 94,
+    "aliases": ["villarreal"]
+  },
+  "valencia": {
+    "api_name": "Valencia CF",
+    "id": 95,
+    "aliases": ["valencia"]
+  },
+  "milan": {
+    "api_name": "AC Milan",
+    "id": 98,
+    "aliases": ["ac milan", "milan"]
+  },
+  "fiorentina": {
+    "api_name": "ACF Fiorentina",
+    "id": 99,
+    "aliases": ["fiorentina"]
+  },
+  "roma": {
+    "api_name": "AS Roma",
+    "id": 100,
+    "aliases": ["roma", "as roma"]
+  },
+  "atalanta": {
+    "api_name": "Atalanta BC",
+    "id": 102,
+    "aliases": ["atalanta"]
+  },
+  "bologna": {
+    "api_name": "Bologna FC 1909",
+    "id": 103,
+    "aliases": ["bologna"]
+  },
+  "cagliari": {
+    "api_name": "Cagliari Calcio",
+    "id": 104,
+    "aliases": ["cagliari"]
+  },
+  "genoa": {
+    "api_name": "Genoa CFC",
+    "id": 107,
+    "aliases": ["genoa"]
+  },
+  "inter": {
+    "api_name": "Inter Milan",
+    "id": 108,
+    "aliases": ["inter", "inter milan"]
+  },
+  "juventus": {
+    "api_name": "Juventus FC",
+    "id": 109,
+    "aliases": ["juve", "juventus"]
+  },
+  "lazio": {
+    "api_name": "SS Lazio",
+    "id": 110,
+    "aliases": ["lazio"]
+  },
+  "parma": {
+    "api_name": "Parma Calcio 1913",
+    "id": 112,
+    "aliases": ["parma"]
+  },
+  "napoli": {
+    "api_name": "SSC Napoli",
+    "id": 113,
+    "aliases": ["napoli"]
+  },
+  "udinese": {
+    "api_name": "Udinese Calcio",
+    "id": 115,
+    "aliases": ["udinese"]
+  },
+  "valladolid": {
+    "api_name": "Real Valladolid CF",
+    "id": 250,
+    "aliases": ["valladolid"]
+  },
+  "alaves": {
+    "api_name": "Deportivo Alavés",
+    "id": 263,
+    "aliases": ["alaves"]
+  },
+  "las palmas": {
+    "api_name": "UD Las Palmas",
+    "id": 275,
+    "aliases": ["las palmas"]
+  },
+  "girona": {
+    "api_name": "Girona FC",
+    "id": 298,
+    "aliases": ["girona"]
+  },
+  "hull": {
+    "api_name": "Hull City AFC",
+    "id": 322,
+    "aliases": ["hull city"]
+  },
+  "portsmouth": {
+    "api_name": "Portsmouth FC",
+    "id": 325,
+    "aliases": ["portsmouth"]
+  },
+  "burnley": {
+    "api_name": "Burnley FC",
+    "id": 328,
+    "aliases": ["burnley"]
+  },
+  "leicester": {
+    "api_name": "Leicester City FC",
+    "id": 338,
+    "aliases": ["leicester"]
+  },
+  "southampton": {
+    "api_name": "Southampton FC",
+    "id": 340,
+    "aliases": ["southampton"]
+  },
+  "leeds": {
+    "api_name": "Leeds United FC",
+    "id": 341,
+    "aliases": ["leeds"]
+  },
+  "derby": {
+    "api_name": "Derby County FC",
+    "id": 342,
+    "aliases": ["derby county"]
+  },
+  "middlesbrough": {
+    "api_name": "Middlesbrough FC",
+    "id": 343,
+    "aliases": ["middlesbrough"]
+  },
+  "sheffield wednesday": {
+    "api_name": "Sheffield Wednesday FC",
+    "id": 345,
+    "aliases": ["sheff wed", "wednesday"]
+  },
+  "watford": {
+    "api_name": "Watford FC",
+    "id": 346,
+    "aliases": ["watford"]
+  },
+  "ipswich": {
+    "api_name": "Ipswich Town FC",
+    "id": 349,
+    "aliases": ["ipswich"]
+  },
+  "nottingham forest": {
+    "api_name": "Nottingham Forest FC",
+    "id": 351,
+    "aliases": ["nottingham", "forest"]
+  },
+  "crystal palace": {
+    "api_name": "Crystal Palace FC",
+    "id": 354,
+    "aliases": ["palace", "crystal palace"]
+  },
+  "sheffield united": {
+    "api_name": "Sheffield United FC",
+    "id": 356,
+    "aliases": ["sheff utd", "sheffield united"]
+  },
+  "millwall": {
+    "api_name": "Millwall FC",
+    "id": 384,
+    "aliases": ["millwall"]
+  },
+  "bristol city": {
+    "api_name": "Bristol City FC",
+    "id": 387,
+    "aliases": ["bristol city"]
+  },
+  "luton": {
+    "api_name": "Luton Town FC",
+    "id": 389,
+    "aliases": ["luton"]
+  },
+  "brighton": {
+    "api_name": "Brighton & Hove Albion FC",
+    "id": 397,
+    "aliases": ["brighton"]
+  },
+  "brentford": {
+    "api_name": "Brentford FC",
+    "id": 402,
+    "aliases": ["brentford"]
+  },
+  "empoli": {
+    "api_name": "Empoli FC",
+    "id": 445,
+    "aliases": ["empoli"]
+  },
+  "verona": {
+    "api_name": "Hellas Verona FC",
+    "id": 450,
+    "aliases": ["verona"]
+  },
+  "venezia": {
+    "api_name": "Venezia FC",
+    "id": 454,
+    "aliases": ["venezia"]
+  },
+  "rio ave": {
+    "api_name": "Rio Ave FC",
+    "id": 496,
+    "aliases": ["rio ave"]
+  },
+  "sporting": {
+    "api_name": "Sporting CP",
+    "id": 498,
+    "aliases": ["sporting lisbon"]
+  },
+  "porto": {
+    "api_name": "FC Porto",
+    "id": 503,
+    "aliases": ["porto"]
+  },
+  "toulouse": {
+    "api_name": "Toulouse FC",
+    "id": 511,
+    "aliases": ["toulouse"]
+  },
+  "brest": {
+    "api_name": "Stade Brestois 29",
+    "id": 512,
+    "aliases": ["brest"]
+  },
+  "marseille": {
+    "api_name": "Olympique de Marseille",
+    "id": 516,
+    "aliases": ["marseille", "om"]
+  },
+  "montpellier": {
+    "api_name": "Montpellier HSC",
+    "id": 518,
+    "aliases": ["montpellier"]
+  },
+  "auxerre": {
+    "api_name": "AJ Auxerre",
+    "id": 519,
+    "aliases": ["auxerre"]
+  },
+  "lille": {
+    "api_name": "LOSC Lille",
+    "id": 521,
+    "aliases": ["lille"]
+  },
+  "nice": {
+    "api_name": "OGC Nice",
+    "id": 522,
+    "aliases": ["nice"]
+  },
+  "lyon": {
+    "api_name": "Olympique Lyonnais",
+    "id": 523,
+    "aliases": ["lyon", "ol"]
+  },
+  "psg": {
+    "api_name": "Paris Saint-Germain FC",
+    "id": 524,
+    "aliases": ["paris sg", "psg"]
+  },
+  "saint-etienne": {
+    "api_name": "AS Saint-Étienne",
+    "id": 527,
+    "aliases": ["st etienne"]
+  },
+  "rennes": {
+    "api_name": "Stade Rennais FC",
+    "id": 529,
+    "aliases": ["rennes"]
+  },
+  "angers": {
+    "api_name": "Angers SCO",
+    "id": 532,
+    "aliases": ["angers"]
+  },
+  "le havre": {
+    "api_name": "Le Havre AC",
+    "id": 533,
+    "aliases": ["le havre"]
+  },
+  "nantes": {
+    "api_name": "FC Nantes",
+    "id": 543,
+    "aliases": ["nantes"]
+  },
+  "lens": {
+    "api_name": "RC Lens",
+    "id": 546,
+    "aliases": ["lens"]
+  },
+  "reims": {
+    "api_name": "Stade de Reims",
+    "id": 547,
+    "aliases": ["reims"]
+  },
+  "monaco": {
+    "api_name": "AS Monaco FC",
+    "id": 548,
+    "aliases": ["monaco", "as monaco"]
+  },
+  "celta vigo": {
+    "api_name": "RC Celta de Vigo",
+    "id": 558,
+    "aliases": ["celta", "celta vigo"]
+  },
+  "sevilla": {
+    "api_name": "Sevilla FC",
+    "id": 559,
+    "aliases": ["sevilla"]
+  },
+  "west ham": {
+    "api_name": "West Ham United FC",
+    "id": 563,
+    "aliases": ["west ham", "hammers"]
+  },
+  "strasbourg": {
+    "api_name": "RC Strasbourg Alsace",
+    "id": 576,
+    "aliases": ["strasbourg"]
+  },
+  "estoril": {
+    "api_name": "GD Estoril Praia",
+    "id": 582,
+    "aliases": ["estoril"]
+  },
+  "moreirense": {
+    "api_name": "Moreirense FC",
+    "id": 583,
+    "aliases": ["moreirense"]
+  },
+  "torino": {
+    "api_name": "Torino FC",
+    "id": 586,
+    "aliases": ["torino"]
+  },
+  "twente": {
+    "api_name": "FC Twente",
+    "id": 666,
+    "aliases": ["twente"]
+  },
+  "heracles": {
+    "api_name": "Heracles Almelo",
+    "id": 671,
+    "aliases": ["heracles"]
+  },
+  "willem ii": {
+    "api_name": "Willem II",
+    "id": 672,
+    "aliases": ["willem ii"]
+  },
+  "heerenveen": {
+    "api_name": "SC Heerenveen",
+    "id": 673,
+    "aliases": ["heerenveen"]
+  },
+  "psv": {
+    "api_name": "PSV Eindhoven",
+    "id": 674,
+    "aliases": ["psv"]
+  },
+  "feyenoord": {
+    "api_name": "Feyenoord Rotterdam",
+    "id": 675,
+    "aliases": ["feyenoord"]
+  },
+  "utrecht": {
+    "api_name": "FC Utrecht",
+    "id": 676,
+    "aliases": ["utrecht"]
+  },
+  "groningen": {
+    "api_name": "FC Groningen",
+    "id": 677,
+    "aliases": ["groningen"]
+  },
+  "ajax": {
+    "api_name": "AFC Ajax",
+    "id": 678,
+    "aliases": ["ajax"]
+  },
+  "nac breda": {
+    "api_name": "NAC Breda",
+    "id": 681,
+    "aliases": ["nac breda"]
+  },
+  "az": {
+    "api_name": "AZ Alkmaar",
+    "id": 682,
+    "aliases": ["az alkmaar"]
+  },
+  "rkc waalwijk": {
+    "api_name": "RKC Waalwijk",
+    "id": 683,
+    "aliases": ["waalwijk"]
+  },
+  "pec zwolle": {
+    "api_name": "PEC Zwolle",
+    "id": 684,
+    "aliases": ["zwolle"]
+  },
+  "arouca": {
+    "api_name": "FC Arouca",
+    "id": 712,
+    "aliases": ["arouca"]
+  },
+  "cardiff": {
+    "api_name": "Cardiff City FC",
+    "id": 715,
+    "aliases": ["cardiff"]
+  },
+  "go ahead eagles": {
+    "api_name": "Go Ahead Eagles",
+    "id": 718,
+    "aliases": ["go ahead"]
+  },
+  "holstein kiel": {
+    "api_name": "Holstein Kiel",
+    "id": 720,
+    "aliases": ["kiel"]
+  },
+  "leipzig": {
+    "api_name": "RB Leipzig",
+    "id": 721,
+    "aliases": ["rb leipzig"]
+  },
+  "celtic": {
+    "api_name": "Celtic FC",
+    "id": 732,
+    "aliases": ["celtic"]
+  },
+  "leganes": {
+    "api_name": "CD Leganés",
+    "id": 745,
+    "aliases": ["leganes"]
+  },
+  "dinamo zagreb": {
+    "api_name": "GNK Dinamo Zagreb",
+    "id": 755,
+    "aliases": ["dinamo zagreb"]
+  },
+  "boavista": {
+    "api_name": "Boavista FC",
+    "id": 810,
+    "aliases": ["boavista"]
+  },
+  "club brugge": {
+    "api_name": "Club Brugge KV",
+    "id": 851,
+    "aliases": ["brugge"]
+  },
+  "sparta praha": {
+    "api_name": "AC Sparta Praha",
+    "id": 907,
+    "aliases": ["sparta prague"]
+  }
+}
