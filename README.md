@@ -142,6 +142,7 @@ football-match-predictor/
 │   ├── models/
 │   │   └── predictor.py       # Prediction engine
 │   └── main.py                # Main application
+├── requirements.txt
 ├── .gitignore
 └── README.md
 ```
