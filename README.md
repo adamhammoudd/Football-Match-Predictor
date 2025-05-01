@@ -36,6 +36,7 @@ This is a Python-based football match prediction system that analyzes recent tea
 - Python 3.8 or higher
 - pip package manager
 - Football-Data.org API key (free tier available)
+- git installed on your system
 
 ### Steps
 1. Clone the repository:
