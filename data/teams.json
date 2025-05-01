@@ -15,7 +15,7 @@
     "aliases": ["bvb", "dortmund"]
   },
   "bayern": {
-    "api_name": "FC Bayern München",
+    "api_name": "FC Bayern M\u00fcnchen",
     "id": 5,
     "aliases": ["bayern munich", "fc bayern"]
   },
