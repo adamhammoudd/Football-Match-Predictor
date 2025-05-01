@@ -28,8 +28,8 @@ class MatchPredictor:
         winner = home_team if home_probability > away_probability else away_team
 
         # Print the summaries and forms
-        print(f"{home_summary}\n{home_team} form: {home_form}")
-        print(f"{away_summary}\n{away_team} form: {away_form}")
+        print(f"\n{home_summary}\n{home_team.upper()} form: {home_form.upper()}")
+        print(f"\n{away_summary}\n{away_team.upper()} form: {away_form.upper()}")
 
         return {
             "winner": winner,
@@ -59,7 +59,7 @@ class MatchPredictor:
         
         # Generate a descriptive summary
         summary = (
-            f"{team_name} won {wins}, drew {draws}, and lost {losses} "
+            f"{team_name.upper()} Won {wins}, Drew {draws}, and Lost {losses} "
             f"in their last {len(outcomes)} matches"
         )
         
