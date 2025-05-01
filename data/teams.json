@@ -22,7 +22,7 @@
   "stuttgart": {
     "api_name": "VfB Stuttgart",
     "id": 10,
-    "aliases": ["vfb stuttgart"]
+    "aliases": ["vfb stuttgart", "stuttgart"]
   },
   "wolfsburg": {
     "api_name": "VfL Wolfsburg",

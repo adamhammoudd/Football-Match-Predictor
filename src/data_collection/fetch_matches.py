@@ -110,4 +110,3 @@ class MatchFetcher:
         path = self.data_dir / filename
         with open(path, "w") as f:
             json.dump(matches, f, indent=4)
-        logging.info(f"Saved data to {path}")
