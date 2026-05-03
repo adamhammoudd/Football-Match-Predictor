@@ -41,7 +41,7 @@ This is a Python-based football match prediction system that analyzes recent tea
 ### Steps
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/football-match-predictor.git
+    git clone https://github.com/adamhammoudd/football-match-predictor.git
     cd football-match-predictor
     ```
 2. Create a virtual environment (recommended):
