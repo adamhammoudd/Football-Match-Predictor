@@ -47,7 +47,8 @@ This is a Python-based football match prediction system that analyzes recent tea
 2. Create a virtual environment (recommended):
     ```bash
     python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
+    venv/bin/activate  # On Windows use `venv\Scripts\activate`
     ```
 3. Install dependencies:
     ```bash
@@ -67,7 +68,7 @@ This is a Python-based football match prediction system that analyzes recent tea
 ## Usage
 Run the program:
 ```bash
-python src/main.py
+python main.py
 ```
 Follow the on-screen prompts:
 1. Select option "1" to predict a match.
